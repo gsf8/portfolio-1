@@ -44,9 +44,7 @@ figure {
   -webkit-transition: .5s;
 }
 
-figure:hover {
-  -webkit-transform: perspective(500) rotateX(90deg) translateY(-3em) translateZ(3em);
-}
+
 
 img {
   background-color: #222;
